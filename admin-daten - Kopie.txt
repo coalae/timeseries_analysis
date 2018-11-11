@@ -1,0 +1,3 @@
+View online	https://datamarket.com/data/set/4aq9/various-bitcoin-currency-statistics#!ds=4aq9!7ajt=l&display=line	
+License	Unknown; please assume a restricted license (all rights reserved); contact DataMarket if you need different licensing	
+Indicator	Market price (USD)	
